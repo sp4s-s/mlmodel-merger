@@ -1,0 +1,154 @@
+END USER LICENSE AGREEMENT 
+
+This End User License Agreement (“Agreement”) is a legal contract between you (“User” or “Licensee”) and Spass (“Licensor”) governing the use of the software (“Software”), associated documentation, and any included materials (“Licensed Materials”). By installing, copying, or otherwise using this Software, you agree to be bound by the terms of this Agreement.
+
+
+---
+
+1. DEFINITIONS
+
+1.1 Licensed Materials: Includes the Software, all associated data, audio, visual content, documentation, and any materials included or derived therefrom.
+1.2 Use: Any form of interaction with, access to, or implementation of the Software or Licensed Materials.
+1.3 Private Use: Use of the Software exclusively for personal, non-commercial, and research purposes.
+
+
+---
+
+2. GRANT OF LICENSE
+
+2.1 Scope:
+
+The Licensor grants a non-exclusive, non-transferable, revocable license to Use the Licensed Materials strictly for private, non-commercial purposes.
+
+Permitted uses include personal projects, research, learning, or educational purposes without distribution or advertising.
+
+
+2.2 Ownership:
+
+The Licensor retains all rights, title, and interest in and to the Licensed Materials, including intellectual property rights.
+
+No ownership or proprietary rights are transferred to the Licensee.
+
+
+
+---
+
+3. RESTRICTIONS
+
+The Licensee shall comply with all applicable laws and agrees not to:
+3.1 Use the Licensed Materials for any commercial purposes, advertising, or distribution.
+3.2 Modify, reverse-engineer, decompile, or create derivative works of the Software.
+3.3 Share, distribute, or sublicense the Licensed Materials to any third party.
+3.4 Incorporate the Software into public, open-source, or commercial systems.
+
+
+---
+
+4. COMPLIANCE WITH APPLICABLE LAWS
+
+The Licensee agrees to comply with the following laws, ensuring their Use remains lawful and ethical:
+
+Indian Laws
+
+4.1 Copyright Act, 1957:
+
+Section 52 permits private use of copyrighted works for research, personal study, and non-commercial purposes.
+
+
+4.2 Information Technology Act, 2000:
+
+Regulates lawful digital usage and prohibits unauthorized access to digital materials.
+
+
+4.3 Personal Data Protection Bill (2023 Draft):
+
+Ensures privacy and lawful handling of personal data during private use.
+
+
+United States Laws
+
+4.4 Fair Use Doctrine (17 U.S.C. § 107):
+
+Allows limited use of copyrighted materials for educational, research, and private purposes under fair use guidelines.
+
+
+4.5 Digital Millennium Copyright Act (DMCA), 1998:
+
+Protects against copyright infringement while permitting private research and study under specific conditions.
+
+
+4.6 California Consumer Privacy Act (CCPA), 2018:
+
+Regulates the use of personal data, ensuring privacy compliance.
+
+
+European Union Laws
+
+4.7 General Data Protection Regulation (GDPR), 2018:
+
+Governs lawful processing of personal data for research purposes with strict privacy protections.
+
+
+4.8 Copyright Directive (Directive (EU) 2019/790):
+
+Permits text and data mining for research and educational purposes when the content is lawfully accessed.
+
+
+
+---
+
+5. TERMINATION
+
+5.1 Right to Terminate:
+
+The Licensor reserves the right to terminate this Agreement at any time, without prior notice or reason.
+5.2 Post-Termination Obligations:
+
+Upon termination, the Licensee must immediately cease using the Software and destroy or delete all copies or its derivatives in their possession.
+
+
+
+---
+
+6. DISCLAIMER OF WARRANTIES
+
+6.1 The Licensed Materials are provided “AS IS” without any express or implied warranties, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+
+---
+
+7. LIMITATION OF LIABILITY
+
+7.1 In no event shall the Licensor be liable for any damages, including but not limited to direct, indirect, incidental, consequential, or punitive damages arising from the use of the Software.
+
+
+---
+
+8. GOVERNING LAW AND DISPUTE RESOLUTION
+
+8.1 Governing Law:
+
+This Agreement is governed by the laws of India, without regard to its conflict of law principles.
+
+
+8.2 Dispute Resolution:
+
+Any disputes shall be resolved through arbitration under the Arbitration and Conciliation Act, 1996, with the arbitration venue in [CITY], India.
+
+
+
+---
+
+9. MISCELLANEOUS
+
+9.1 Severability: If any provision of this Agreement is found invalid, the remaining provisions remain in effect.
+9.2 No Waiver: Failure to enforce any provision does not constitute a waiver of rights.
+9.3 Entire Agreement: This Agreement constitutes the entire understanding between the parties and supersedes any prior agreements.
+9.4 Acknowledgement: By using the Software, the Licensee acknowledges they have read, understood, and agreed to be bound by this Agreement.
+
+
+---
+
+END OF AGREEMENT
+
+---
